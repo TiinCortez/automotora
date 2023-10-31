@@ -1,0 +1,18 @@
+/* 1. Seleccionamos el selector */
+body{
+    font-family:'Times New Roman', Times, serif
+}
+
+h2{
+    color: cadetblue;
+}
+
+/* Seleccionamos por clases*/
+.tituloAmarillo{
+    color: yellow;
+}
+
+/* 3. Seleccionamos por ID */
+#parrafoAzul{
+    color: blue;
+}
